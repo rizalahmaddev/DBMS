@@ -1,10 +1,10 @@
 Represention tier<br>
-users<br>
+-users<br>
 id nama | username | email| password | gender | address <br>
 
 Application tier<br>
-controller<br>
-model<br>
+-controller<br>
+-model<br>
 
 Database tier<br>
-put data into application<br>
+-put data into application<br>

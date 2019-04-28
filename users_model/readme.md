@@ -1,6 +1,6 @@
 Represention tier<br>
 - table users<br>
-id nama | username | email| password | gender | address | usertype |<br>
+id nama | username | email | password | gender | address | phone | usertype |<br>
 
 Application tier<br>
 - controller<br>
